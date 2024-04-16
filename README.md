@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am Abdulazeez Aliyu. 
+I'm currently learning Front-End Development. 
+Looking forward to helping each other. 
 <!--
 **Ayman05/Ayman05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
